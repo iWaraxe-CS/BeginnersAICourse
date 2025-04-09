@@ -1,0 +1,2 @@
+# BeginnersAICourse
+Course content
